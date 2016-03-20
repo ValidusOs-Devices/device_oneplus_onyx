@@ -46,8 +46,8 @@
             64 - Volume rocker
             83 - Profile Toggle
          For example, a device with Home, Back and Menu keys would set this
-         config to 7. -->
-    <integer name="config_deviceHardwareWakeKeys">64</integer>
+         config to 7. 
+    <integer name="config_deviceHardwareWakeKeys">64</integer>-->
 
     <!-- Control the behavior when the user long presses the home button.
             0 - Nothing
