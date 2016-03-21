@@ -3,7 +3,7 @@
 #
 
 ro.build.product=OnePlus
-ro.product.device=OnePlus
+ro.product.device=onyx
 ro.build.description=OnePlus
 ro.build.fingerprint=OnePlus/OnePlus/OnePlus:5.1.1/LMY47V/1441677661:user/release-keys
 
