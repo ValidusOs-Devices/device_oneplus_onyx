@@ -317,7 +317,4 @@
     <!-- Show battery fully charged notification -->
     <bool name="config_showBatteryFullyChargedNotification">true</bool>
 
-    <!-- Bool whether to show Hardware keys settings in WolvesDen -->
-    <bool name="config_showHwKeys">true</bool>
-
 </resources>
