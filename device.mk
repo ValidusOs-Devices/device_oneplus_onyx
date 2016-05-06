@@ -103,6 +103,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     charger_res_images
 
+# Doze
+PRODUCT_PACKAGES += \
+    OnyxDoze
+
 # Graphics
 PRODUCT_PACKAGES += \
     copybit.msm8974 \
