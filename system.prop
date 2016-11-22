@@ -71,7 +71,7 @@ ro.sf.lcd_density=420
 ro.qualcomm.cabl=0
 
 # Storage
-ro.sys.sdcardfs=true
+#ro.sys.sdcardfs=true
 
 # QC vendor extension
 ro.vendor.extension_library=libqti-perfd-client.so
