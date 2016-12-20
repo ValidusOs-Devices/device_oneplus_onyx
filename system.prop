@@ -1,6 +1,8 @@
 #
 # system.prop for OnePlus X
 #
+
+# ADB at boot
 persist.service.adb.enable=1                                                    
 persist.service.debuggable=1
 persist.sys.usb.config=mtp,adb
@@ -113,3 +115,6 @@ persist.timed.enable=true
 
 # Wifi
 wifi.interface=wlan0
+
+# Google assistant
+ro.opa.eligible_device=true
